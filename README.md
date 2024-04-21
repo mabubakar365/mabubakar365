@@ -5,7 +5,7 @@ I'm an Embedded Systems Engineer with 6+ years of industry experience. I special
 ## 🛠️ Skills and Tools
 
 - **Microcontrollers (MCUs):** STM32, ESP32, Arduino, RaspberryPI, Zynq 7000 SoCs
-- **Programming Languages:** C, Python, Shell, TypeScript, HTML, CSS
+- **Programming Languages:** C, Python, RUST, Shell, TypeScript, HTML, CSS
 - **PCB Design Tools:** Altium, Kicad, EasyEDA
 - **Communication Protocols:** SPI, I2C, UART, SDIO, Ethernet, WiFi, BLE
 - **IoT Platforms:** AWS, Azure, Blynk
