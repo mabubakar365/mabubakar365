@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Muhammad Abu Bakar 👋
 
-<!--
-**mabubakar365/mabubakar365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Embedded Systems Engineer with 6+ years of industry experience. I specialize in firmware development, circuit schematic and PCB design, test case development for embedded systems testing, driver development for various sensors, IoT, and Linux systems programming.
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Microcontrollers (MCUs):** STM32, ESP32, Arduino, RaspberryPI, Zynq 7000 SoCs
+- **Programming Languages:** C, Python, Shell, TypeScript, HTML, CSS
+- **PCB Design Tools:** Altium, Kicad, EasyEDA
+- **Communication Protocols:** SPI, I2C, UART, SDIO, Ethernet, WiFi, BLE
+- **IoT Platforms:** AWS, Azure, Blynk
+- **Other:** Linux Systems Programming, Buildroot System
+
+## 📚 Experience
+
+I have a rich experience in developing firmware in C language for various MCUs. I have also developed professional circuit schematics and PCBs using tools like Altium, Kicad, and EasyEDA. I have experience in developing test cases for embedded systems testing. I am proficient in driver development for different sensors supporting communication protocols like SPI, I2C, UART, SDIO, Ethernet, WiFi, and BLE. I have worked on IoT platforms like AWS, Azure, and Blynk. I also have experience in Linux systems programming and Buildroot system.
