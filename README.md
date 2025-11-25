@@ -1,16 +1,113 @@
-# Hello, I'm Muhammad Abu Bakar 👋
+<!-- 👋 Welcome Banner (light / dark mode) -->
+<p align="center">
+  <picture>
+    <!-- Light mode banner -->
+    <source srcset="https://your-domain.com/banner-light.png" media="(prefers-color-scheme: light)">
+    <!-- Dark mode banner -->
+    <source srcset="https://your-domain.com/banner-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="https://your-domain.com/banner-light.png" alt="Embedded Systems & IoT Engineer" width="100%">
+  </picture>
+</p>
 
-I'm an Embedded Systems Engineer with 6+ years of industry experience. I specialize in firmware development, circuit schematic and PCB design, test case development for embedded systems testing, driver development for various sensors, IoT, and Linux systems programming.
+---
 
-## 🛠️ Skills and Tools
+# 👋 Hi, I’m **Muhammad Abu Bakar** ([@mabubakar365](https://github.com/mabubakar365))
 
-- **Microcontrollers (MCUs):** STM32, ESP32, Arduino, RaspberryPI, Zynq 7000 SoCs
-- **Programming Languages:** C, Python, RUST, Shell, TypeScript, HTML, CSS
-- **PCB Design Tools:** Altium, Kicad, EasyEDA
-- **Communication Protocols:** SPI, I2C, UART, SDIO, Ethernet, WiFi, BLE
-- **IoT Platforms:** AWS, Azure, Blynk
-- **Other:** Linux Systems Programming, Buildroot System
+**Senior Embedded Systems Engineer · IoT & Firmware Architect**
 
-## 📚 Experience
+- 📍 Lahore, Pakistan  
+- 🛠️ 7+ years of hands-on experience in embedded systems, firmware development, PCB design, IoT devices, and machine-learning–enabled embedded solutions.  
+- 💡 Passion: transforming complex hardware ideas into robust, production-ready embedded systems — from low-level drivers to end-to-end IoT & edge-AI products.
 
-I have a rich experience in developing firmware in C language for various MCUs. I have also developed professional circuit schematics and PCBs using tools like Altium, Kicad, and EasyEDA. I have experience in developing test cases for embedded systems testing. I am proficient in driver development for different sensors supporting communication protocols like SPI, I2C, UART, SDIO, Ethernet, WiFi, and BLE. I have worked on IoT platforms like AWS, Azure, and Blynk. I also have experience in Linux systems programming and Buildroot system.
+---
+
+## 🚀 What I Do  
+
+| **Domain** | **Description** |
+|------------|-----------------|
+| **Embedded & Firmware Development** | MCU, SoC, and embedded Linux firmware; device driver development (SPI, I2C, UART, SDIO, Ethernet), sensor integration, board bring-up. |
+| **Hardware & PCB Design** | Schematic creation and PCB layout using Altium, KiCad, EasyEDA. |
+| **IoT & Connectivity** | Designing IoT systems with MCUs/SoCs (ESP8266, ESP32, STM32, AURIX), sensors, wireless modules (Wi-Fi, BLE), and cloud backend. |
+| **Test Automation & Validation** | Automated test frameworks and scripts (in Python, C#, shell) for embedded device validation and quality assurance. |
+| **ML & Edge-AI Projects** | Deep-learning prototypes, computer vision pipelines, neural networks, and edge-AI deployment on embedded platforms. |
+| **End-to-End Product Development** | From hardware and firmware to mobile apps (Android/Kotlin) and cloud — full-stack IoT product development lifecycle. |
+
+---
+
+## 🔧 Tools & Technologies  
+
+**MCUs / Boards:** STM32 · ESP8266 · ESP32 · Arduino · Raspberry Pi · Infineon AURIX TC375 · NUCLEO-WBA52 · Zynq-7000  
+**Languages:** C / C++ · Python · Rust · Shell / Bash · TypeScript · HTML / CSS  
+**PCB & ECAD Tools:** Altium Designer · KiCad · EasyEDA  
+**Protocols / Interfaces:** SPI · I²C · UART · SDIO · Ethernet · Wi-Fi · BLE  
+**IoT / Cloud / Backend:** MQTT · AWS · Azure · Blynk · Embedded Linux · Buildroot  
+**ML / AI / Edge Computing:** PyTorch · Neural Networks · Computer Vision · Embedded ML Deployment  
+**Dev Tools:** Git · GitHub · CI/CD · Test Automation · Version Control  
+
+---
+
+## 📂 Featured Projects & Repositories
+
+Here are some repositories that highlight my work and capabilities. Explore them to see my code, documentation, and project structure:
+
+| Project | Focus / What It Demonstrates |
+|--------|------------------------------|
+| **[NUCLEO-WBA52](https://github.com/mabubakar365/NUCLEO-WBA52)** | Firmware / board bring-up on STM32-based Nucleo board; baremetal / RTOS development. |
+| **[STM32-Projects / STM32Projects](https://github.com/mabubakar365/STM32-Projects)** | A collection of embedded firmware projects showcasing MCU programming, peripheral interfacing, and real-time control. |
+| **[Deep-Learning-with-PyTorch](https://github.com/mabubakar365/Deep-Learning-with-PyTorch)** | Deep-learning experiments and prototype models — neural networks, ML pipelines, computer vision. |
+| **[Introduction-to-Neural-Networks-and-PyTorch](https://github.com/mabubakar365/Introduction-to-Neural-Networks-and-PyTorch)** | Educational notebooks and tutorials — perfect for understanding fundamentals of ML and neural networks. |
+| **[AI-Capstone-Project-with-Deep-Learning](https://github.com/mabubakar365/AI-Capstone-Project-with-Deep-Learning)** | End-to-end ML project: data processing, model training, evaluation — demonstrates ability in managing complex ML workflows. |
+| *(Other repos)* | Additional embedded, IoT, sensor-driver (e.g. BMP280 port), test automation, mobile-app prototypes, etc. |
+
+> 💡 *Tip:* Pin 4–6 of your strongest, most relevant repos (embedded + IoT + ML) on your GitHub profile for better visibility.
+
+---
+
+## 📈 GitHub Stats & Top Languages
+
+<sub>(These cards update automatically — no manual maintenance needed.)</sub>
+
+<a href="https://github.com/mabubakar365">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mabubakar365&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/mabubakar365">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar365&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</a>
+
+---
+
+## 🎯 What I’m Looking For / Open To
+
+I am open for collaboration or work opportunities in:
+
+- Embedded & IoT product development (hardware + firmware + cloud/mobile)  
+- ML/AI + embedded systems / computer vision / edge-AI  
+- Sensor driver porting, SoC bring-up, custom firmware development  
+- PCB design, mixed-signal electronics, power electronics  
+- Open-source embedded, IoT, edge-AI projects  
+
+If you have something in mind — feel free to reach out!
+
+---
+
+## 📫 Connect With Me  
+
+[<img src="https://img.shields.io/badge/LinkedIn-@your-profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/your-profile)  
+[<img src="https://img.shields.io/badge/GitHub-@mabubakar365-black?style=flat-square&logo=github" alt="GitHub">](https://github.com/mabubakar365)  
+[<img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=flat-square&logo=gmail" alt="Email">](mailto:youremail@example.com)
+
+---
+
+> **“From silicon to system, from bits to real-world products — I build reliable embedded solutions that power tomorrow’s IoT & edge-AI systems.”**
+
+---
+
+## 🧠 Why This Structure
+
+- Uses **clear hierarchical headings** and **rich keywords** (Embedded, Firmware, IoT, ML, PCB, etc.) — improves search engine visibility and attracts relevant recruiters/collaborators.  
+- **Dynamic GitHub stats & language cards** — show real-time activity, codebase distribution, and provide social proof without manual updates. :contentReference[oaicite:0]{index=0}  
+- **Clean, UX-friendly layout** — makes profile easy to scan, understand quickly, and highlights your strengths at a glance.  
+- **Call-to-action & contact links** — encourages outreach and collaboration.  
+- **Project highlight section** — gives visitors immediate insight into your key work.  
+
+---
