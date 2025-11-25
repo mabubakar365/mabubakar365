@@ -49,8 +49,6 @@ Here are some repositories that highlight my work and capabilities. Explore them
 
 ## 📈 GitHub Stats & Top Languages
 
-<sub>(These cards update automatically — no manual maintenance needed.)</sub>
-
 <a href="https://github.com/mabubakar365">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mabubakar365&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </a>
