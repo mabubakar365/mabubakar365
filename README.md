@@ -74,7 +74,7 @@ If you have something in mind — feel free to reach out!
 
 ## 📫 Connect With Me  
 [<img src="https://img.shields.io/badge/GitHub-@mabubakar365-black?style=flat-square&logo=github" alt="GitHub">](https://github.com/mabubakar365)  
-[<img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=flat-square&logo=gmail" alt="Email">](m.abubakar365@yahoo.com)
+[<img src="https://img.shields.io/badge/Email-m.abubakar365@yahoo.com-red?style=flat-square&logo=gmail" alt="Email">](m.abubakar365@yahoo.com)
 
 ---
 
