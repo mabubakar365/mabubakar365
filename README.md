@@ -1,16 +1,3 @@
-<!-- 👋 Welcome Banner (light / dark mode) -->
-<!-- <p align="center">
-  <picture>
-    <!-- Light mode banner -->
-    <source srcset="https://your-domain.com/banner-light.png" media="(prefers-color-scheme: light)">
-    <!-- Dark mode banner -->
-    <source srcset="https://your-domain.com/banner-dark.png" media="(prefers-color-scheme: dark)">
-    <img src="https://your-domain.com/banner-light.png" alt="Embedded Systems & IoT Engineer" width="100%">
-  </picture>
-</p> -->
-
----
-
 # 👋 Hi, I’m **Muhammad Abu Bakar** ([@mabubakar365](https://github.com/mabubakar365))
 
 **Senior Embedded Systems Engineer · IoT & Firmware Architect**
