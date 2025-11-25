@@ -1,5 +1,5 @@
 <!-- 👋 Welcome Banner (light / dark mode) -->
-<p align="center">
+<!-- <p align="center">
   <picture>
     <!-- Light mode banner -->
     <source srcset="https://your-domain.com/banner-light.png" media="(prefers-color-scheme: light)">
@@ -7,7 +7,7 @@
     <source srcset="https://your-domain.com/banner-dark.png" media="(prefers-color-scheme: dark)">
     <img src="https://your-domain.com/banner-light.png" alt="Embedded Systems & IoT Engineer" width="100%">
   </picture>
-</p>
+</p> -->
 
 ---
 
@@ -57,9 +57,6 @@ Here are some repositories that highlight my work and capabilities. Explore them
 | **[Deep-Learning-with-PyTorch](https://github.com/mabubakar365/Deep-Learning-with-PyTorch)** | Deep-learning experiments and prototype models — neural networks, ML pipelines, computer vision. |
 | **[Introduction-to-Neural-Networks-and-PyTorch](https://github.com/mabubakar365/Introduction-to-Neural-Networks-and-PyTorch)** | Educational notebooks and tutorials — perfect for understanding fundamentals of ML and neural networks. |
 | **[AI-Capstone-Project-with-Deep-Learning](https://github.com/mabubakar365/AI-Capstone-Project-with-Deep-Learning)** | End-to-end ML project: data processing, model training, evaluation — demonstrates ability in managing complex ML workflows. |
-| *(Other repos)* | Additional embedded, IoT, sensor-driver (e.g. BMP280 port), test automation, mobile-app prototypes, etc. |
-
-> 💡 *Tip:* Pin 4–6 of your strongest, most relevant repos (embedded + IoT + ML) on your GitHub profile for better visibility.
 
 ---
 
@@ -91,23 +88,11 @@ If you have something in mind — feel free to reach out!
 ---
 
 ## 📫 Connect With Me  
-
-[<img src="https://img.shields.io/badge/LinkedIn-@your-profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/your-profile)  
 [<img src="https://img.shields.io/badge/GitHub-@mabubakar365-black?style=flat-square&logo=github" alt="GitHub">](https://github.com/mabubakar365)  
-[<img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=flat-square&logo=gmail" alt="Email">](mailto:youremail@example.com)
+[<img src="https://img.shields.io/badge/Email-youremail@example.com-red?style=flat-square&logo=gmail" alt="Email">](m.abubakar365@yahoo.com)
 
 ---
 
 > **“From silicon to system, from bits to real-world products — I build reliable embedded solutions that power tomorrow’s IoT & edge-AI systems.”**
-
----
-
-## 🧠 Why This Structure
-
-- Uses **clear hierarchical headings** and **rich keywords** (Embedded, Firmware, IoT, ML, PCB, etc.) — improves search engine visibility and attracts relevant recruiters/collaborators.  
-- **Dynamic GitHub stats & language cards** — show real-time activity, codebase distribution, and provide social proof without manual updates. :contentReference[oaicite:0]{index=0}  
-- **Clean, UX-friendly layout** — makes profile easy to scan, understand quickly, and highlights your strengths at a glance.  
-- **Call-to-action & contact links** — encourages outreach and collaboration.  
-- **Project highlight section** — gives visitors immediate insight into your key work.  
 
 ---
